@@ -14,6 +14,10 @@ TOOLS USED
 I used the textbox to highlight the title of the project (Salary Survey Analysis). I used slicers for Country ,age range ,race type and gender to enable an interactive dashboard.
 VISUALIZATIONS 
 I used tools like clustered column charts, line charts, stacked bar charts to visualize some analysis like top 5 countries, gender based on annual salary, average salary by industry, annual salary by years of experience etc.
+
+![image](https://github.com/PeppieBubay/PeppieBubay-Ask-A-Manager-Salary-Survey-Analysis/assets/152814673/a4b06598-c7cb-459d-96a7-a4eb09fd168f)
+
+
 STEPS IN CLEANING ANALYZING THE DATA
 In this analysis, I cleaned a dataset that was given. Here are the steps followed.
 1.	I downloaded the data set from google sheet to an excel workbook.
